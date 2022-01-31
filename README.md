@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/pandaa-#A4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/pandaa0628@gmail.com-A4335?style=flat-square&logo=pp&logoColor=white"/>
 
 ### Hi there 👋
 
