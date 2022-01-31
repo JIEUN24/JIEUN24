@@ -1,6 +1,8 @@
 <a href="https://instagram.com/jieun_feel">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>, <img src="https://img.shields.io/badge/pandaa0628@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://google.com">
+<img src="https://img.shields.io/badge/pandaa0628@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### Hi there 👋
 
