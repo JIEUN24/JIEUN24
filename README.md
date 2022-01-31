@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Gmail-#A4335?style=flat-square&logo=pandaa&logoColor=white"/>
+
 ### Hi there 👋
 
 
