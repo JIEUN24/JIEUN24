@@ -1,4 +1,4 @@
-<a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-FF6550?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:pandaa0628@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandaa0628@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-FF6550?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:pandaa0628@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 # Skills 🌱
 <strong>Platforms & Languages</strong>
