@@ -1,9 +1,6 @@
 <a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-FF6550?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandaa0628@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-#Hi there 👋
-
-
-#Skills 🌱
+# Skills 🌱
 <strong>Platforms & Languages</strong>
 </br>
 </br>
@@ -16,6 +13,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </br>
 </br>
+# Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIEUN24&show_icons=true&theme=swift)
 
 <!--
