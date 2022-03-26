@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </div>
 </br>
-
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIEUN24&show_icons=true&theme=swift)
 
