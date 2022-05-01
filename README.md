@@ -1,3 +1,5 @@
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Jieun&show_icons=true)
+
 <a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-E5426E?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:pandaa0628@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 # 🌱 Skills 
