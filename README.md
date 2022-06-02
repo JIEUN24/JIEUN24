@@ -1,7 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jieun&fontAlign=74&fontAlignY=40&color=gradient)
 
-<a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-E5426E?style=logo=Instagram&logoColor=white"/></a> <a href="mailto:pandaa0628@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://instagram.com/jieun_feel"><img src="https://img.shields.io/badge/Instagram-E5426E?style=&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:pandaa0628@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=&logo=Gmail&logoColor=white"/></a>
+<a href="https://choijying21.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-FF6550?style=&logo=Tistory&logoColor=white"/></a>
+  
 # 🌱 Skills 
 <strong>Stack</strong>
 <div>
