@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=&logo=Visual Studio Code&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native for web-61DAFB?style=&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=&logo=React Router&logoColor=white"/>
