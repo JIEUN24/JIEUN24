@@ -10,15 +10,16 @@
 <img src="https://img.shields.io/badge/Html-E34F26?style=&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=&logo=Visual Studio Code&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native for web-61DAFB?style=&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=&logo=React Router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/AXIOS-6828e2?style="/>
 <img src="https://img.shields.io/badge/SWR-000000?style="/>
+<br>
+<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify-#1867C0?style=&logo=Vuetify&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swiper-6332F6?style=&logo=Swiper&logoColor=white"/>
