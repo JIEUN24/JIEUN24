@@ -21,6 +21,7 @@
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=&logo=Vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinia-F0B90B?style=&logo=Pinia&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swiper-6332F6?style=&logo=Swiper&logoColor=white"/>
