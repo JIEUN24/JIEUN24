@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/MUI-007FFF?style=&logo=MUI&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=&logo=Sass&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=&logo=Bootstrap&logoColor=white"/>
 </div>
 <br>
 <strong>Techs that I've used at least once</strong>
