@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=&logo=Sass&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=&logo=Vuetify&logoColor=white"/>
 </div>
 <br>
 <strong>Techs that I've used at least once</strong>
@@ -51,7 +52,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=&logo=jirasoftware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=&logo=bitbucket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-0052CC?style=&logo=confluence&logoColor=white"/>
 </div>
 </br>
 
